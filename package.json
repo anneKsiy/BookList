@@ -1,0 +1,19 @@
+{
+  "name": "booklist",
+  "version": "1.0.0",
+  "description": "A book list created using bootstrap and vanilla JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anneKsiy/BookList.git"
+  },
+  "author": "anneKsiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anneKsiy/BookList/issues"
+  },
+  "homepage": "https://github.com/anneKsiy/BookList#readme"
+}
